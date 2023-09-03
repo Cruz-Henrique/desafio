@@ -4,3 +4,4 @@
 ### Pretendo atualizar conforme for me aprofundando no conteúdo do bootcamp. 
 ### Grato pela contribuição de vocês, que desejarem indicar materiais gratuitos para área de dados.
 
+#Foi adicionado o desafio de sql também nessa pasta. Pretendo atualizá=lo em breve. Deixando em uma pasta mais organizado.
